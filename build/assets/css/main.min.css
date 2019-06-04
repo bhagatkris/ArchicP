@@ -190,7 +190,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  background: #0d1218 url("../img/ep_naturalblack.png");
+  background: blue;
   font-size: 14px;
   line-height: 1.6;
   font-size: 14px;
@@ -391,3 +391,6 @@ h4 {
 
 .flex-video {
   border: 1px solid black; }
+
+html {
+  background: pink; }
