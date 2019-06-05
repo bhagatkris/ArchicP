@@ -1,0 +1,21 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "main.sass",
+        "1-tools/_normalize.sass",
+        "2-helpers/_variables.sass",
+        "2-helpers/_functions.sass",
+        "2-helpers/_mixins.sass",
+        "3-basics/_base.sass",
+        "3-basics/_buttons.sass",
+        "3-basics/_links.sass",
+        "3-basics/_selection-colors.sass",
+        "3-basics/_typography.sass",
+        "4-layout/_nav.sass",
+        "5-modules/_flex-video.sass",
+        "6-pages/_page-home.sass"
+    ],
+    "names": [],
+    "file": "main.css"
+}
