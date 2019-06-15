@@ -1,10 +1,44 @@
 .wrapper {
   width: 100%;
-  max-width: 1100px;
+  max-width: 1140px;
   margin: 0 auto; }
 
 body {
   background: white;
   font-size: 14px;
-  font-family: Circular Std Medium, Circular Std Book, Circular Std Bold;
-  letter-spacing: 2px; }
+  font-family: Circular Std Medium, Circular Std Book, Circular Std Bold; }
+
+* {
+  margin: 0px;
+  border: 0px;
+  vertical-align: baseline;
+  padding: 0px; }
+
+#header {
+  height: 10vh;
+  margin-top: 0px; }
+
+.navul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0px; }
+  .navul .logo {
+    padding: 0px; }
+  .navul li {
+    list-style: none;
+    padding-right: 100px; }
+  .navul li:first-child {
+    margin-right: auto; }
+  .navul a {
+    text-decoration: none;
+    display: block;
+    padding: 10px 10px;
+    color: #1F2932;
+    letter-spacing: 3px;
+    font-weight: 300;
+    font-size: 12px; }
+
+#banner1 {
+  width: 1140px;
+  height: 440px; }
